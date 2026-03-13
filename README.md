@@ -124,8 +124,8 @@ After completing this lab, students will be able to:
 
 ## 🧑‍🏫 Maintainer
 
-**Vishal Kumar Singh**  
-Assistant Professor | Computer Science  
+**HANS SONI **  
+Student at Parul University | Computer Science  
 Compiler Design | C Programming | Systems  
 
 ---
